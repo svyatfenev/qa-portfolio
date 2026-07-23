@@ -108,21 +108,16 @@ EU-Relocate — веб-сервис компании, помогающей IT-с
 - баг-репорты;
 - результаты регрессионного тестирования.
 
-Структура проекта:
-
+```text
 EU-Relocate-Web-Testing
 
-EU-Relocate-Bug-Reports-Country-Quiz.xlsx
-
-EU-Relocate-Bug-Reports-Home-Page.xlsx
-
-EU-Relocate-Bug-Reports-Regression.xlsx
-
-EU-Relocate-Test-Cases-Country-Quiz.xlsx
-
-EU-Relocate-Test-Cases-Home-Page.xlsx
-
-README.md
+├── README.md
+├── EU-Relocate-Test-Cases-Home-Page.xlsx
+├── EU-Relocate-Bug-Reports-Home-Page.xlsx
+├── EU-Relocate-Bug-Reports-Regression.xlsx
+├── EU-Relocate-Test-Cases-Country-Quiz.xlsx
+└── EU-Relocate-Bug-Reports-Country-Quiz.xlsx
+```
 
 
 
